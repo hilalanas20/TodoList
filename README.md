@@ -8,5 +8,5 @@ A clean, responsive To-Do List web app built using HTML, CSS, and JavaScript wit
 - Automatically saves todos using localStorage
 - Fully responsive and mobile-friendly
 ## 🖼️ Preview
-<img width="1882" height="860" alt="image" src="https://github.com/user-attachments/assets/fc040c5f-b9dc-4038-b23a-9a9e1af988f4" />
+![image alt](https://github.com/hilalanas20/TodoList/blob/22522108a4b871ad4dd7648b12a3922330172b05/Screenshot%202025-10-26%20182634.png)
 
